@@ -10,10 +10,16 @@ Since I am not allowed to share the code of the app So. required is the screensh
 <img src="image2.png" alt="second screen" width="300">  
 </p>
 <br></br>
-## If the attendant is not comfortable with entering the vehicle number of scanning the QR code than app has the feature to select the parked vehicles from the list and as they select particular vehicle the vehicle is removed from database and slot </h3>
+<h3>If the attendant is not comfortable with entering the vehicle number of scanning the QR code than app has the feature to select the parked vehicles from the list and as they select particular vehicle the vehicle is removed from database and slot. There is another feature which allow the attendants to select the slots rather than entering in the app </h3>
 <br></br>
 <p float="left">
 <img src="image3.png" alt="third screen" width="300">  
 <img src="image4.png" alt="fourth screen" width="300">  
+</p>
+<br></br>
+<h3>
+This screen show the implementation of qrCode scanner 
+</h3>
+<br></br>
 <img src="image5.png" alt="fifth screen" width="300">  
 </p>
