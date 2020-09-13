@@ -2,7 +2,7 @@
 Since I am not allowed to share the code of the app So. required is the screenshots an working of the app
 [![Watch the video](redirecting.png)](https://youtu.be/N7wPJXrrxPo)
 
-## Initially we have two Screen which allow the attendant to Park IN and OUT the Vehicle in the available slot. This can be done by two ways either by writing the vehicle number in the blocks given or by scanning the barcode from the user app
+### Initially we have two Screen which allow the attendant to Park IN and OUT the Vehicle in the available slot. This can be done by two ways either by writing the vehicle number in the blocks given or by scanning the barcode from the user app
 
 
 <p float="left">
